@@ -120,3 +120,59 @@ input:hover {
     border-color: #a0a0a0 #b9b9b9 #b9b9b9 #b9b9b9;
     box-shadow: 0 2px 3px #999;
 }
+
+
+.container {
+    text-align: center;
+    display: block;
+    width: 700px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+footer {
+    color: black;
+    font-size: 12px;
+    background-color: #F2F2F2;
+    height: 30px;
+    line-height: 5px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+span {
+    position: absolute;
+    color: blue;
+    bottom: : 0;
+    right: 0;
+}
+
+.float-right {
+    float: right;
+    margin-right: 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.bigSquare {
+    margin-top: 80px;
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: purple;
+}
+
+p.square {
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
