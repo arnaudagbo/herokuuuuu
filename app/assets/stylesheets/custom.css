@@ -42,6 +42,29 @@ footer a:hover {
 }
 
 
+span.absolute {
+    position: absolute;
+    color: #4285F6;
+    bottom: : 10px;
+    right: 0;
+    width: 0;
+}
+
+input {
+    width: 100%;
+    line-height: 30px;
+    border: 1px solid #ccc;
+    box-shadow: 0;
+    padding: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 3px #ccc;
+}
+
+input:hover {
+    border-color: #a0a0a0 #b9b9b9 #b9b9b9 #b9b9b9;
+    box-shadow: 0 2px 3px #999;
+}
+
 .headerButton {
     background: #1E72F0;
     color: white;
